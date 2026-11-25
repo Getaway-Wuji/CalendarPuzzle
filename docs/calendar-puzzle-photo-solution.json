@@ -1,0 +1,104 @@
+{
+  "date": "2021-06-20",
+  "placements": [
+    {
+      "id": "A",
+      "anchor": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "B",
+      "anchor": [
+        2,
+        0
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "C",
+      "anchor": [
+        1,
+        1
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "D",
+      "anchor": [
+        2,
+        2
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "E",
+      "anchor": [
+        5,
+        1
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "F",
+      "anchor": [
+        4,
+        3
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "G",
+      "anchor": [
+        6,
+        3
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "H",
+      "anchor": [
+        1,
+        4
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "I",
+      "anchor": [
+        0,
+        5
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "J",
+      "anchor": [
+        4,
+        5
+      ],
+      "rotation": 0,
+      "flipped": false
+    },
+    {
+      "id": "K",
+      "anchor": [
+        2,
+        7
+      ],
+      "rotation": 0,
+      "flipped": false
+    }
+  ]
+}

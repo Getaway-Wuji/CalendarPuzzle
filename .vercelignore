@@ -1,0 +1,10 @@
+.git
+.vercel
+.vercel-build-tools
+node_modules
+rust/calendar-puzzle/target
+src/generated
+dist
+test-results
+playwright-report
+artifacts
